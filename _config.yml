@@ -1,4 +1,4 @@
-title: "Affiliates"
+title: "Zen"
 email: zenal.co.id@gmail.com
 timezone: UTC
 baseurl: ""
@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Zen
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'website'
 locale: en_us
 lang: en_us
 feed_items: 10
