@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: "/about/"
+permalink: "/affiliates-jekyll-theme/about/"
 image: assets/images/screenshot.png
 ---
 
