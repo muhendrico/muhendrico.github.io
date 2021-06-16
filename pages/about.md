@@ -4,12 +4,11 @@ title: About
 permalink: "/about/"
 image: assets/images/screenshot.png
 ---
+don't waste your youth, 
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+it's better to be tired when you're young than to be tired when you're old. 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+age doesn't really know, at least we struggle to find knowledge, keep working and don't stop working
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+[Get it here](https://zend.space)
 
