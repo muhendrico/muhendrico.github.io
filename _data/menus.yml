@@ -6,6 +6,12 @@ topmenu:
 
 - title: About
   url: "about/"
+  
+- title: Experience
+  url: "about/"
+  
+- title: Work
+  url: "about/"
 
 - title: Contact
   url: "contact/"
